@@ -13,14 +13,14 @@ EasyJS is a lightweight JavaScript framework designed to simplify the creation o
 
 ### Getting Started
 
-To use EasyJS, include the `easyjs.js` script in your HTML file and initialize the framework after the DOM content is loaded.
+To use EasyJS, include the `EasyJS.js` script in your HTML file and initialize the framework after the DOM content is loaded.
 
 ### Installation
 
 Add the EasyJS script to your project:
 
 ```html
-<script src="path/to/easyjs.js"></script>
+<script src="path/to/EasyJS.js"></script>
 ```
 
 ### Usage
