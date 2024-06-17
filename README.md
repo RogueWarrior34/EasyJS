@@ -214,5 +214,4 @@ function $$$.ajax(jsonObject)
 
 EasyJS is released under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
-**Sponsored**
-Boost your development productivity with [DevTools Pro](https://www.devtoolspro.com) - Advanced tools for efficient coding, debugging, and team collaboration. Try it today!
+
